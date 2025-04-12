@@ -1,1 +1,1 @@
-# c-hostel-managment-project-
+# c++ hostel-managment-project
